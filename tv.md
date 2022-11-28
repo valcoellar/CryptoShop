@@ -17,6 +17,7 @@ https://firebase.google.com   (verificar GET/POST ciclo)
 
 1-Landing Page
 
+
 2-Marketplace
 	cuenta con: 
 		-Autenticacion local/terceros
