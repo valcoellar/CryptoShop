@@ -1,0 +1,14 @@
+Contraseña_emp_2022
+
+db: emp
+
+----------------
+
+our database has been setup. Use the following values:
+Database:	u144733_emp
+Host:	localhost
+Username:	u144733_emp
+Password:	Contraseña_emp_2022
+
+http://gruponucleon.com/demo/api/emp/read.php
+http://gruponucleon.com/demo/api/emp/index.php
